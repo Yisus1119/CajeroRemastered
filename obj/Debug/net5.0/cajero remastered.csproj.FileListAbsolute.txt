@@ -1,0 +1,32 @@
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.exe
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.deps.json
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.runtimeconfig.json
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.runtimeconfig.dev.json
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.dll
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\ref\cajero remastered.dll
+C:\Users\paraq\Desktop\cajero remastered\bin\Debug\net5.0\cajero remastered.pdb
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.csprojAssemblyReference.cache
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.AssemblyInfoInputs.cache
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.AssemblyInfo.cs
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.csproj.CoreCompileInputs.cache
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.dll
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\ref\cajero remastered.dll
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.pdb
+C:\Users\paraq\Desktop\cajero remastered\obj\Debug\net5.0\cajero remastered.genruntimeconfig.cache
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.csprojAssemblyReference.cache
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.AssemblyInfoInputs.cache
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.AssemblyInfo.cs
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.csproj.CoreCompileInputs.cache
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.dll
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\ref\cajero remastered.dll
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.pdb
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.exe
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.deps.json
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.runtimeconfig.json
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.runtimeconfig.dev.json
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.dll
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\ref\cajero remastered.dll
+C:\Users\paraq\Desktop\CajeroRemastered\bin\Debug\net5.0\cajero remastered.pdb
+C:\Users\paraq\Desktop\CajeroRemastered\obj\Debug\net5.0\cajero remastered.genruntimeconfig.cache
